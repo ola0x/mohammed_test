@@ -1,0 +1,6 @@
+opencv-python==4.6.0.66
+PyQt5==5.15.10
+flask 
+pyautogui
+playsound==1.2.2
+hikvisionapi
